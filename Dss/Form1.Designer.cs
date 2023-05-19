@@ -40,6 +40,7 @@ namespace DSS
             this.Max_Max_btn = new ComponentFactory.Krypton.Toolkit.KryptonButton();
             this.Exit_btn = new System.Windows.Forms.Button();
             this.PanelView = new System.Windows.Forms.Panel();
+            this.Emv_btn = new ComponentFactory.Krypton.Toolkit.KryptonButton();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -80,6 +81,7 @@ namespace DSS
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.panel1.Controls.Add(this.Emv_btn);
             this.panel1.Controls.Add(this.Min_Max_btn);
             this.panel1.Controls.Add(this.Min_max_Regret_btn);
             this.panel1.Controls.Add(this.EquallyLikelybtn);
@@ -102,7 +104,7 @@ namespace DSS
             // 
             // Min_max_Regret_btn
             // 
-            this.Min_max_Regret_btn.Location = new System.Drawing.Point(55, 524);
+            this.Min_max_Regret_btn.Location = new System.Drawing.Point(55, 500);
             this.Min_max_Regret_btn.Name = "Min_max_Regret_btn";
             this.Min_max_Regret_btn.Size = new System.Drawing.Size(136, 63);
             this.Min_max_Regret_btn.TabIndex = 9;
@@ -111,7 +113,7 @@ namespace DSS
             // 
             // EquallyLikelybtn
             // 
-            this.EquallyLikelybtn.Location = new System.Drawing.Point(55, 388);
+            this.EquallyLikelybtn.Location = new System.Drawing.Point(55, 375);
             this.EquallyLikelybtn.Name = "EquallyLikelybtn";
             this.EquallyLikelybtn.Size = new System.Drawing.Size(136, 63);
             this.EquallyLikelybtn.TabIndex = 8;
@@ -120,7 +122,7 @@ namespace DSS
             // 
             // Max_Max_btn
             // 
-            this.Max_Max_btn.Location = new System.Drawing.Point(55, 252);
+            this.Max_Max_btn.Location = new System.Drawing.Point(55, 250);
             this.Max_Max_btn.Name = "Max_Max_btn";
             this.Max_Max_btn.Size = new System.Drawing.Size(136, 63);
             this.Max_Max_btn.TabIndex = 7;
@@ -145,6 +147,15 @@ namespace DSS
             this.PanelView.Name = "PanelView";
             this.PanelView.Size = new System.Drawing.Size(912, 601);
             this.PanelView.TabIndex = 7;
+            // 
+            // Emv_btn
+            // 
+            this.Emv_btn.Location = new System.Drawing.Point(55, 625);
+            this.Emv_btn.Name = "Emv_btn";
+            this.Emv_btn.Size = new System.Drawing.Size(136, 63);
+            this.Emv_btn.TabIndex = 11;
+            this.Emv_btn.Values.Text = "EMV";
+            this.Emv_btn.Click += new System.EventHandler(this.Emv_btn_Click);
             // 
             // MainForm
             // 
@@ -181,6 +192,7 @@ namespace DSS
         private System.Windows.Forms.Button Exit_btn;
         private System.Windows.Forms.Panel PanelView;
         private ComponentFactory.Krypton.Toolkit.KryptonButton Min_Max_btn;
+        private ComponentFactory.Krypton.Toolkit.KryptonButton Emv_btn;
     }
 }
 

@@ -75,5 +75,16 @@ namespace DSS
             PanelView.Controls.Add(min_Max_Regret_UC);
 
         }
+
+        private void Emv_btn_Click(object sender, EventArgs e)
+        {
+            int row = int.Parse(numberOfRows.Text.ToString());
+            int column = int.Parse(numberOfColumns.Text.ToString());
+
+            Emv_UC emv_UC_UC = new Emv_UC(row, column);
+            PanelView.Controls.Clear();
+            PanelView.Controls.Add(emv_UC_UC);
+
+        }
     }
 }

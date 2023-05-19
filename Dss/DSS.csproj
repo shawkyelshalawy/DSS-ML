@@ -61,6 +61,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Emv_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Emv_UC.Designer.cs">
+      <DependentUpon>Emv_UC.cs</DependentUpon>
+    </Compile>
     <Compile Include="Equally_Likely_UC.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -93,6 +99,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Emv_UC.resx">
+      <DependentUpon>Emv_UC.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Equally_Likely_UC.resx">
       <DependentUpon>Equally_Likely_UC.cs</DependentUpon>
     </EmbeddedResource>
