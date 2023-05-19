@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>XG Model</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+    <style>
+        body {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            align-items: center;
+            height: 67vh;
+            background: #23b499;
+            font-family: "Open Sans", sans-serif;
+            color: #fff;
+        }
+
+        select {
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            -ms-appearance: none;
+            appearance: none;
+            outline: 0;
+            box-shadow: none;
+            border: 0 !important;
+            background: #5c6664;
+            background-image: none;
+            flex: 1;
+            padding: 0 0.5em;
+            color: #fff;
+            cursor: pointer;
+            font-size: 1em;
+            font-family: "Open Sans", sans-serif;
+        }
+
+        select::-ms-expand {
+            display: none;
+        }
+
+        .select {
+            position: relative;
+            display: flex;
+            width: 20em;
+            height: 3em;
+            line-height: 3;
+            background: #5c6664;
+            overflow: hidden;
+            border-radius: 0.25em;
+        }
+
+        .select::after {
+            content: "\25BC";
+            position: absolute;
+            top: 0;
+            right: 0;
+            padding: 0 1em;
+            background: #2b2e2e;
+            cursor: pointer;
+            pointer-events: none;
+            transition: 0.25s all ease;
+        }
+
+        .select:hover::after {
+            color: #23b499;
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <form method="POST" action="/process_form">
+        <div class="select">
+            <select name="location" id="location">
+                <option>Choose the location</option>
+                <!--        <option value="Attacking half">Attacking half</option>-->
+                <option value="fast_break">Fast Break</option>
+                <option value="Centre of the box">Centre of the box</option>
+                <option value="Left wing">Left wing</option>
+                <option value="Right wing">Right wing</option>
+                <!-- <option value="Difficult angle and long range">
+                    Difficult angle and long range
+                </option> -->
+                <option value="Difficult angle on the left">
+                    Difficult angle on the left
+                </option>
+                <option value="Difficult angle on the right">
+                    Difficult angle on the right
+                </option>
+                <option value="Left side of the box">Left side of the box</option>
+                <option value="Left side of the six yard box">
+                    Left side of the six yard box
+                </option>
+                <option value="Right side of the box">Right side of the box</option>
+                <option value="Right side of the six yard box">
+                    Right side of the six yard box
+                </option>
+                <option value="Very close range">Very close range</option>
+                <option value="Penalty spot">Penalty spot</option>
+                <option value="Outside the box">Outside the box</option>
+                <option value="Long range">Long range</option>
+                <option value="More than 35 yards">More than 35 yards</option>
+                <option value="More than 40 yards">More than 40 yards</option>
+            </select>
+        </div>
+
+        <div class="select">
+            <select name="bodypart" id="bodypart">
+                <option>Body Part</option>
+                <option value="right foot">right foot</option>
+                <option value="left foot">left foot</option>
+                <option value="head">head</option>
+            </select>
+        </div>
+
+        <div class="select">
+            <select name="assist_method" id="assist_method">
+                <option>Assist Method</option>
+                <option value="None">None</option>
+                <option value="Pass">Pass</option>
+                <option value="Cross">Cross</option>
+                <option value="Headed pass">Headed pass</option>
+                <option value="Through ball">Through ball</option>
+            </select>
+        </div>
+
+        <div class="select">
+            <select name="situation" id="situation">
+                <option>Situation</option>
+                <option value="Open play">Open play</option>
+                <option value="Set piece">Set piece</option>
+                <option value="Corner">Corner</option>
+                <option value="Free kick">Free kick</option>
+            </select>
+        </div>
+
+        <input type="submit" value="Submit">
+    </form>
+
+
+    <!--
+    <form method="POST" action="/process_form">
+        <label for="dropdown">Select an option:</label>
+        <select name="dropdown" id="dropdown">
+            <option value="option1">Option 1</option>
+            <option value="option2">Option 2</option>
+            <option value="option3">Option 3</option>
+        </select>
+        <input type="submit" value="Submit">
+    </form>-->
+</body>
+
+</html>

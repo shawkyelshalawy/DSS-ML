@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\bin\Debug\netcoreapp3.1\piriori algorithm.exe
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\bin\Debug\netcoreapp3.1\piriori algorithm.deps.json
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\bin\Debug\netcoreapp3.1\piriori algorithm.runtimeconfig.json
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\bin\Debug\netcoreapp3.1\piriori algorithm.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\bin\Debug\netcoreapp3.1\piriori algorithm.dll
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\bin\Debug\netcoreapp3.1\piriori algorithm.pdb
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\obj\Debug\netcoreapp3.1\piriori algorithm.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\obj\Debug\netcoreapp3.1\piriori_algorithm.MainForm.resources
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\obj\Debug\netcoreapp3.1\piriori algorithm.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\obj\Debug\netcoreapp3.1\piriori algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\obj\Debug\netcoreapp3.1\piriori algorithm.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\obj\Debug\netcoreapp3.1\piriori algorithm.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\obj\Debug\netcoreapp3.1\piriori algorithm.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\obj\Debug\netcoreapp3.1\piriori algorithm.dll
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\obj\Debug\netcoreapp3.1\piriori algorithm.pdb
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\obj\Debug\netcoreapp3.1\piriori algorithm.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\Dss\piriori algorithm\obj\Debug\netcoreapp3.1\piriori_algorithm.Form2.resources

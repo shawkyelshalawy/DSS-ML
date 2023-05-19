@@ -1,0 +1,69 @@
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\bin\Debug\DSS.exe.config
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\bin\Debug\DSS.exe
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\bin\Debug\DSS.pdb
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\obj\Debug\DSS.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\obj\Debug\DSS.MainForm.resources
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\obj\Debug\DSS.Properties.Resources.resources
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\obj\Debug\DSS.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\obj\Debug\DSS.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\obj\Debug\DSS.csproj.CopyComplete
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\obj\Debug\DSS.exe
+C:\Users\lenovo\Desktop\semister 5,6\semister 6\DSS\obj\Debug\DSS.pdb
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\bin\Debug\DSS.exe.config
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\bin\Debug\DSS.exe
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\bin\Debug\DSS.pdb
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\obj\Debug\DSS.csproj.AssemblyReference.cache
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\obj\Debug\DSS.MainForm.resources
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\obj\Debug\DSS.Max_Max_UC.resources
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\obj\Debug\DSS.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\obj\Debug\DSS.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\obj\Debug\DSS.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\obj\Debug\DSS.csproj.CopyComplete
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\obj\Debug\DSS.exe
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\obj\Debug\DSS.pdb
+C:\Users\lenovo\Source\Repos\youssefhedefa\Dss\obj\Debug\DSS.Min_Max_UC.resources
+C:\Users\lenovo\Desktop\semister 5,6\Dss\bin\Debug\DSS.exe.config
+C:\Users\lenovo\Desktop\semister 5,6\Dss\bin\Debug\DSS.exe
+C:\Users\lenovo\Desktop\semister 5,6\Dss\bin\Debug\DSS.pdb
+C:\Users\lenovo\Desktop\semister 5,6\Dss\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\lenovo\Desktop\semister 5,6\Dss\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\lenovo\Desktop\semister 5,6\Dss\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\lenovo\Desktop\semister 5,6\Dss\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\lenovo\Desktop\semister 5,6\Dss\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\lenovo\Desktop\semister 5,6\Dss\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\lenovo\Desktop\semister 5,6\Dss\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\lenovo\Desktop\semister 5,6\Dss\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\lenovo\Desktop\semister 5,6\Dss\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\lenovo\Desktop\semister 5,6\Dss\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\lenovo\Desktop\semister 5,6\Dss\obj\Debug\DSS.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\semister 5,6\Dss\obj\Debug\DSS.MainForm.resources
+C:\Users\lenovo\Desktop\semister 5,6\Dss\obj\Debug\DSS.Max_Max_UC.resources
+C:\Users\lenovo\Desktop\semister 5,6\Dss\obj\Debug\DSS.Min_Max_UC.resources
+C:\Users\lenovo\Desktop\semister 5,6\Dss\obj\Debug\DSS.Properties.Resources.resources
+C:\Users\lenovo\Desktop\semister 5,6\Dss\obj\Debug\DSS.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\semister 5,6\Dss\obj\Debug\DSS.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\semister 5,6\Dss\obj\Debug\DSS.csproj.CopyComplete
+C:\Users\lenovo\Desktop\semister 5,6\Dss\obj\Debug\DSS.exe
+C:\Users\lenovo\Desktop\semister 5,6\Dss\obj\Debug\DSS.pdb
+C:\Users\lenovo\Desktop\semister 5,6\Dss\obj\Debug\DSS.Equally_Likely_UC.resources
+C:\Users\lenovo\Desktop\semister 5,6\Dss\obj\Debug\DSS.Min_Max_Regret_UC.resources
